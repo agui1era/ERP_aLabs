@@ -1,1 +1,0 @@
-<?php $link = mysql_connect("localhost", "alabscl_ventas","Sky-pic6615al");?> 
